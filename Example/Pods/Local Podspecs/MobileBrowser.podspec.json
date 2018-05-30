@@ -1,0 +1,22 @@
+{
+  "name": "MobileBrowser",
+  "version": "0.1.0",
+  "summary": "A short description of MobileBrowser.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/mail2unkc@gmail.com/MobileBrowser",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "mail2unkc@gmail.com": "utejaswi@teksystems.com"
+  },
+  "source": {
+    "git": "https://github.com/mail2unkc@gmail.com/MobileBrowser.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MobileBrowser/Classes/**/*"
+}

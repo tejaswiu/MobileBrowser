@@ -1,0 +1,6 @@
+framework module MobileBrowser {
+  umbrella header "MobileBrowser-umbrella.h"
+
+  export *
+  module * { export * }
+}

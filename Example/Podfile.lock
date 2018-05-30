@@ -1,0 +1,16 @@
+PODS:
+  - MobileBrowser (0.1.0)
+
+DEPENDENCIES:
+  - MobileBrowser (from `../`)
+
+EXTERNAL SOURCES:
+  MobileBrowser:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MobileBrowser: c95e8fefb38c0847da0173712d3e133593d6f324
+
+PODFILE CHECKSUM: 1df9199a6862a82ea6973e65e7b096d91f3de333
+
+COCOAPODS: 1.5.2

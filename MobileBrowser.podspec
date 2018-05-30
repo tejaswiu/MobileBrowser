@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'MobileBrowser'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of MobileBrowser.'
+  s.summary          = 'Custom library with WKWebView MobileBrowser.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,14 +21,14 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/mail2unkc@gmail.com/MobileBrowser'
+  s.homepage         = 'https://github.com/tejaswiu/MobileBrowser'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'mail2unkc@gmail.com' => 'utejaswi@teksystems.com' }
-  s.source           = { :git => 'https://github.com/mail2unkc@gmail.com/MobileBrowser.git', :tag => s.version.to_s }
+  s.author           = { 'tejaswiu' => 'uppala.tejaswi@gmail.com' }
+  s.source           = { :git => 'https://github.com/tejaswiu/MobileBrowser.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '10.0'
 
   s.source_files = 'MobileBrowser/Classes/**/*'
   
