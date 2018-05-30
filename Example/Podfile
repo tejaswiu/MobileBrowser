@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MobileBrowser_Example' do
+  pod 'MobileBrowser', :path => '../'
+
+  target 'MobileBrowser_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
